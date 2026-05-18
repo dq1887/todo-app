@@ -62,3 +62,16 @@ li{
     background:#eee;
     border-radius:5px;
 }
+
+.delete-btn{
+    background: red;
+    padding: 5px 10px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.delete-btn:hover{
+    background: darkred;
+}
